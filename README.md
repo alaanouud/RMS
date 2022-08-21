@@ -18,6 +18,8 @@ admin add user the group one or more groups
 Admin has full authority and can  viewing  users delete or editing other users and assign users
 
 
+
+
 Roles User Management:
 register
 
@@ -33,12 +35,19 @@ register
 user can be member the group one or more groups
 creates report with crud operations [viewing, editing and deleting]
 
+
+
+
  usres and admin can Search using different criteria.
 a. By report title.
 b. By tag.
 c. By group.
 d.description
 e. By Author
+
+
+
+
 
 Roles Report:
 When the user creates report that includes
