@@ -21,7 +21,10 @@ Admin has full authority and can  viewing  users delete or editing other users a
 Roles User Management:
 register
 
--login and login Verification <img width="432" alt="Picture2" src="https://user-images.githubusercontent.com/81470200/185773649-7a6be3f6-d359-49b5-9824-39336d944464.png">
+-login and login Verification <img width="350" alt="Picture2" src="https://user-images.githubusercontent.com/81470200/185773649-7a6be3f6-d359-49b5-9824-39336d944464.png">
+
+
+
 user can be member the group one or more groups
 creates report with crud operations [viewing, editing and deleting]
 
