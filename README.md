@@ -50,7 +50,7 @@ creates report with crud operations [viewing, editing and deleting]
 
 
 
-## #Roles Report:
+## Roles Report:
 
 When the user creates report that includes
   report name and report includes audio, image, or both
@@ -82,7 +82,7 @@ tag and description
 
 
 
--Made with love 🫶 ❤
+# -Made with love 🫶 ❤
 
 
 
