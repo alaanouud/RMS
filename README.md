@@ -20,7 +20,7 @@ Admin has full authority and can  viewing  users delete or editing other users a
 
 
 
-#Roles User Management:
+### Roles User Management:
 register
 
 -login and login Verification
@@ -50,7 +50,7 @@ creates report with crud operations [viewing, editing and deleting]
 
 
 
-#Roles Report:
+## #Roles Report:
 
 When the user creates report that includes
   report name and report includes audio, image, or both
