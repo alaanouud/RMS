@@ -13,7 +13,7 @@ management panel with role based application, using Laravel (PHP Framework).It i
 
 ## Features 
 
-#Admin Roles Management:
+# Admin Roles Management:
 admin add user the group one or more groups
 Admin has full authority and can  viewing  users delete or editing other users and assign users
 
