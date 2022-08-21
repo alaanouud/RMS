@@ -20,7 +20,7 @@ Admin has full authority and can  viewing  users delete or editing other users a
 
 
 
-###  User Management:
+##  User Management:
 register
 
 -login and login Verification
