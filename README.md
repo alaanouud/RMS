@@ -32,24 +32,26 @@ register
 
 
 
-user can be member the group one or more groups
+user can be member the group one or more groups 
 creates report with crud operations [viewing, editing and deleting]
 
 
 
 
- usres and admin can Search using different criteria.
-a. By report title.
-b. By tag.
-c. By group.
-d.description
-e. By Author
+
+ Users and admin can Search using different criteria.
+ a. By report title.
+ b. By tag.
+ c. By group.
+ d.description
+ e. By Author
 
 
 
 
 
 Roles Report:
+
 When the user creates report that includes
   report name and report includes audio, image, or both
   the user chooses which group to add a report to
