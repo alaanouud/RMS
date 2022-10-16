@@ -15,7 +15,7 @@ management panel with role based application, using Laravel (PHP Framework).It i
 
 ### Admin Roles Management:
 admin add user the group one or more groups
-Admin has full authority and can  viewing  users delete or editing other users and assign users
+Admin has full authority and can  viewing  users delete or editing and update other users and assign users
 
 
 
@@ -33,13 +33,13 @@ register
 
 
 user can be member the group one or more groups 
-creates report with crud operations [viewing, editing and deleting]
+creates report with crud operations [viewing, editing and deleting ,update]
 
 
 
 
 
- Users and admin can Search using different criteria.
+ **Users and admin can Search using different criteria:**
  - a. By report title
  -  b. By tag
 -  c. By group
