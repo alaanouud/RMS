@@ -40,11 +40,11 @@ creates report with crud operations [viewing, editing and deleting]
 
 
  Users and admin can Search using different criteria.
- a. By report title.
- b. By tag.
- c. By group.
- d.description
- e. By Author
+ - a. By report title
+ -  b. By tag
+-  c. By group
+ - d.description
+ - e. By Author
 
 
 
@@ -57,6 +57,11 @@ When the user creates report that includes
   the user chooses which group to add a report to
 Only the groups that the admin added to it
 tag and description
+
+
+
+
+
 
   -Allow uploaded reports to the system.
 
